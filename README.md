@@ -17,9 +17,9 @@
 
 **<h4 align="left"> Github stats:</h4>**
 
-<p float="center"> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=agusle&show_icons=true&locale=en" alt="agusle"/> 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=agusle&" alt="agusle" /> </p>
+<p align="center"> 
+<img height="130" src="https://github-readme-stats.vercel.app/api?username=agusle&show_icons=true&locale=en" alt="agusle"/> 
+<img height="130" src="https://github-readme-streak-stats.herokuapp.com/?user=agusle&" alt="agusle" /> </p>
 </p>
 
 **<h4 align="left"> Let's talk:</h4>**
