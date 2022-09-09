@@ -30,7 +30,7 @@
 
 |  🏀 [NBA Players predictions](https://github.com/agusle/nba-players-predictions)|
 | :-:|
-| [<img src = "https://github.com/agusle/nba-players-predictions/blob/main/img/project-logo-nba.png" width = 400 height = 300/>](https://github.com/agusle/nba-players-predictions)
+| [<img src = "https://github.com/agusle/nba-players-predictions/blob/main/img/project-logo-nba.png" width = 450 height = 300/>](https://github.com/agusle/nba-players-predictions)
 
 **<h2 align="left"> Let's talk:</h2>**
 <p align="left">
