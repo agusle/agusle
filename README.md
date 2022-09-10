@@ -24,8 +24,7 @@
 
 **<h2 align="left"> Machine Learning Projects </h2>**
 
-| Supervised Learning |
-| :-:|
+<h3 align="center"> Supervised Learning </h3>
 
 |  💳 [Credit card loan risk analysis](https://github.com/agusle/credit-card-loan-risk-analysis)| 🏠 [Home credit risk analysis](https://github.com/agusle/home-credit-risk-analysis)|
 | :-:| :-:| 
