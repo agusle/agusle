@@ -42,7 +42,7 @@
 | :-:|
 |[<img src = "https://github.com/agusle/car-images-classification/blob/main/img/project-logo.png" width = 400 height = 300 align="center"/>](https://github.com/agusle/car-images-classification)
 
-**<h2 align="left"> Let's talk:</h2>**
+**<h2 align="left"> Let's connect:</h2>**
 <p align="left">
 <a href="https://linkedin.com/in/agustinleperini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agustinleperini" height="30" width="40" /></a>
 <a href="https://fb.com/agusleperini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="agusleperini" height="30" width="40" /></a>
