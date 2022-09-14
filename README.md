@@ -28,7 +28,7 @@
 
 |  💳 [Credit card loan risk analysis](https://github.com/agusle/credit-card-loan-risk-analysis)| 🏠 [Home credit risk analysis](https://github.com/agusle/home-credit-risk-analysis)|
 | :-:| :-:| 
-| [<img src = "https://github.com/agusle/credit-card-loan-risk-analysis/blob/main/img/project-logo.PNG" width = 500 height = 300/>](https://github.com/agusle/credit-card-loan-risk-analysis)| [<img src = "https://github.com/agusle/home-credit-risk-analysis/blob/main/img/project-logo.png" width = 500 height = 300/>](https://github.com/agusle/home-credit-risk-analysis)
+| [<img src = "https://github.com/agusle/credit-card-loan-risk-analysis/blob/main/img/project-logo.PNG" width = 400 height = 300/>](https://github.com/agusle/credit-card-loan-risk-analysis)| [<img src = "https://github.com/agusle/home-credit-risk-analysis/blob/main/img/project-logo.png" width = 400 height = 300/>](https://github.com/agusle/home-credit-risk-analysis)
 
 |  🏀 [NBA Players predictions](https://github.com/agusle/nba-players-predictions)|
 | :-:|
