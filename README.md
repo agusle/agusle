@@ -3,7 +3,7 @@
 
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=agusle&label=Profile%20views&color=0e75b6&style=flat" alt="agusle" /> 
-<img src="https://img.shields.io/github/followers/agusle?label=Followers" alt="agusle" /> </p>
+[<img src="https://img.shields.io/github/followers/agusle?label=Followers" alt="agusle"](https://github.com/agusle?tab=followers) /> </p>
 </p>
 
 **<h2 align="left"> About me:</h2>**
