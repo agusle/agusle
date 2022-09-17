@@ -4,6 +4,7 @@
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=agusle&label=Profile%20views&color=0e75b6&style=flat" alt="profileviews" /> 
 <a href="https://github.com/agusle?tab=followers" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/github/followers/agusle?label=Followers" alt="followers"/>
+<a href="https://github.com/agusle?tab=following" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/github/following/agusle?label=Following" alt="following"/>
 </p>
 
 **<h2 align="left"> About me:</h2>**
