@@ -9,7 +9,7 @@
 **<h2 align="left"> About me:</h2>**
 - ⚡ I'm interest in **Finance or sports related solutions.** 
 - 💬 Ask me about **Python,Pandas,Docker, AWS.**
-- 🌱 I’m currently learning **Frameworks (Fast API) and a lot of ML courses.**
+- 🌱 I’m currently learning **Frameworks (Fast API), MySQL and Algorithmic Trading with Reinforcement Learning.**
 - 📫 Reach me **agustinleperini5@gmail.com**
 
 **<h2 align="left"> My Current Stack:</h2>**
