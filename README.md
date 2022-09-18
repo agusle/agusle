@@ -44,8 +44,10 @@
 
 **<h2 align="left"> Let's connect:</h2>**
 <p align="left">
-<a href="https://linkedin.com/in/agustinleperini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agustinleperini" height="30" width="40" /></a>
-<a href="https://fb.com/agusleperini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="agusleperini" height="30" width="40" /></a>
-<a href="https://instagram.com/agustinleperini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="agustinleperini" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/agustinleperini5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="agustinleperini5" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/agustinleperini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://fb.com/agusleperini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
+<a href="https://instagram.com/agustinleperini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/agustinleperini5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" /></a>
+<a href="https://www.sololearn.com/profile/24666598" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/sololearn-2.svg" alt="sololearn" height="30" width="40" /></a>
+
 </p>
