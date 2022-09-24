@@ -7,7 +7,7 @@
 </p>
 
 **<h2 align="left"> About me:</h2>**
-- ⚡ I'm interest in **Finance or sports related solutions.** 
+- ⚡ I'm interest in **Finance, Gaming or Sports related solutions.** 
 - 💬 Ask me about **Python,Pandas,Docker, AWS.**
 - 🌱 I’m currently learning **Frameworks (Fast API), MySQL and Algorithmic Trading with Reinforcement Learning.**
 - 📫 Reach me **agustinleperini5@gmail.com**.
