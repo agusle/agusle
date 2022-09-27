@@ -31,9 +31,9 @@
 | :-:| :-:| 
 | [<img src = "https://github.com/agusle/credit-card-loan-risk-analysis/blob/main/img/project-logo.PNG" width = 400 height = 300/>](https://github.com/agusle/credit-card-loan-risk-analysis)| [<img src = "https://github.com/agusle/home-credit-risk-analysis/blob/main/img/project-logo.png" width = 400 height = 300/>](https://github.com/agusle/home-credit-risk-analysis)
 
-|  🏀 [NBA Players predictions](https://github.com/agusle/nba-players-predictions)|
-| :-:|
-|[<img src = "https://github.com/agusle/nba-players-predictions/blob/main/img/project-logo-nba.png" width = 400 height = 300 align="center"/>](https://github.com/agusle/nba-players-predictions)
+|  🏀 [NBA Players predictions](https://github.com/agusle/nba-players-predictions)| 🎥 [Sentiment analysis on movie reviews](https://github.com/agusle/sentiment-analysis-on-movie-reviews)
+| :-:| :-:| 
+|[<img src = "https://github.com/agusle/nba-players-predictions/blob/main/img/project-logo-nba.png" width = 400 height = 300 align="center"/>](https://github.com/agusle/nba-players-predictions)| [<img src = "https://github.com/agusle/sentiment-analysis-on-movie-reviews/blob/main/img/project-logo.png" width = 400 height = 300/>](https://github.com/agusle/sentiment-analysis-on-movie-reviews)
 
 **<h2 align="left"> Deep Learning Projects </h2>**
 
