@@ -8,7 +8,7 @@
 
 **<h2 align="left"> About me:</h2>**
 - ⚡ I'm interested in solutions related to **Finance, Gaming or Sports.** 
-- 💬 Ask me about **Python,Pandas,Docker, AWS.**
+- 💬 Ask me about **Python, Pandas, Docker, AWS.**
 - 🌱 I’m currently learning **Frameworks (Fast API), MySQL and Algorithmic Trading with Reinforcement Learning.**
 - 📫 Reach me **agustinleperini5@gmail.com**.
 - 🎓 Always learning [**something new everyday**](https://github.com/agusle/something_new_everyday).
