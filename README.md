@@ -1,8 +1,9 @@
 <h1 align="center">Hi there! I'm Agustín Leperini 😀</h1>
 <h3 align="center">A very curious Machine Learning Engineer from Rosario, Argentina.</h3>
 
-[<img src = "https://drive.google.com/file/d/15TVhN-iDCrWF5NP-mDq4yW1DjQ_D33EM/view?usp=sharing" width = 400 height = 300/>]
-
+<p align="center"> 
+<img height="150" src="https://drive.google.com/file/d/15TVhN-iDCrWF5NP-mDq4yW1DjQ_D33EM/view?usp=sharing" alt="alien"/> 
+</p>
 
 
 <p align="center"> 
