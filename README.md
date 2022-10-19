@@ -1,15 +1,10 @@
 <h1 align="center">Hi there! I'm Agustín Leperini 
-<picture>
+<p>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="32" height="32">
-</picture>
+</p>
 </h1>
 <h3 align="center">A very curious Machine Learning Engineer from Rosario, Argentina.</h3>
-
-<picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="32" height="32">
-</picture>
 
 <p align="center"> 
 <a href="https://github.com/agusle" target="_blank" rel="noreferrer"> <img src="https://komarev.com/ghpvc/?username=agusle&label=Profile%20views&color=0e75b6&style=flat" alt="profileviews" /> </a>
