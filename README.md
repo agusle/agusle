@@ -1,6 +1,9 @@
-<h1 align="center">Hi there! I'm Agustín Leperini 😀)</h1>
+<h1 align="center">Hi there! I'm Agustín Leperini 😀</h1>
 <h3 align="center">A very curious Machine Learning Engineer from Rosario, Argentina.</h3>
-![gift](https://drive.google.com/file/d/15TVhN-iDCrWF5NP-mDq4yW1DjQ_D33EM/view
+
+[<img src = "https://drive.google.com/file/d/15TVhN-iDCrWF5NP-mDq4yW1DjQ_D33EM/view?usp=sharing" width = 400 height = 300/>]
+
+
 
 <p align="center"> 
 <a href="https://github.com/agusle" target="_blank" rel="noreferrer"> <img src="https://komarev.com/ghpvc/?username=agusle&label=Profile%20views&color=0e75b6&style=flat" alt="profileviews" /> </a>
