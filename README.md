@@ -1,11 +1,11 @@
 <h1 align="center"> 
   Hi there! I'm Agustín Leperini 
-<p>
+<picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="32" height="32">
-</p>
-  
-</h1>
+</picture>
+  </h1>
+
 <h3 align="center">A very curious Machine Learning Engineer from Rosario, Argentina.</h3>
 
 <p align="center"> 
