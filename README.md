@@ -2,11 +2,6 @@
 <h3 align="center">A very curious Machine Learning Engineer from Rosario, Argentina.</h3>
 
 <p align="center"> 
-<img height="150" src="https://drive.google.com/file/d/15TVhN-iDCrWF5NP-mDq4yW1DjQ_D33EM/view?usp=sharing" alt="alien"/> 
-</p>
-
-
-<p align="center"> 
 <a href="https://github.com/agusle" target="_blank" rel="noreferrer"> <img src="https://komarev.com/ghpvc/?username=agusle&label=Profile%20views&color=0e75b6&style=flat" alt="profileviews" /> </a>
 <a href="https://github.com/agusle?tab=followers" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/github/followers/agusle?label=Followers" alt="followers"/> </a>
 </p>
