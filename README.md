@@ -25,7 +25,7 @@
 
 **<h2 align="left"> Github stats:</h2>**
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=agusle&show_icons=true&count_private=true&locale=en&theme=prussian" alt="stats"/> 
-<img height="150" src="https://streak-stats.demolab.com?user=agusle&theme=prussian&hide_border=true" alt="streak" /> </p>
+<img height="150" src="https://streak-stats.demolab.com?user=agusle&theme=prussian" alt="streak" /> </p>
 </p>
 
 **<h2 align="left"> Machine Learning Projects </h2>**
