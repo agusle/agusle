@@ -26,7 +26,7 @@
 **<h2 align="left"> Github stats:</h2>**
 
 <p align="center"> 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=agusle&show_icons=true&locale=en" alt="agusle"/> 
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=agusle&show_icons=true&count_private=true&locale=en" alt="agusle"/> 
 <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=agusle&" alt="agusle" /> </p>
 </p>
 
