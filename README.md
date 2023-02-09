@@ -45,8 +45,8 @@
 
 <h3 align="center"> Convolutional Neural Networks </h3>
 
-|  🚗 [Car images classification](https://github.com/agusle/car-images-classification)|
-| :-:|
+|  🚗 [Car images classification](https://github.com/agusle/car-images-classification)| 🖼️ [Image Classifier](https://github.com/agusle/image_classifier)
+| :-:| :-:| 
 |[<img src = "https://github.com/agusle/car-images-classification/blob/main/img/project-logo.png" width = 400 height = 300 align="center"/>](https://github.com/agusle/car-images-classification)
 
 **<h2 align="left"> Let's connect:</h2>**
