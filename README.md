@@ -47,7 +47,7 @@
 
 |  🚗 [Car images classification](https://github.com/agusle/car-images-classification)| 🖼️ [Image Classifier](https://github.com/agusle/image_classifier)
 | :-:| :-:| 
-|[<img src = "https://github.com/agusle/car-images-classification/blob/main/img/project-logo.png" width = 400 height = 300 align="center"/>](https://github.com/agusle/car-images-classification)
+|[<img src = "https://github.com/agusle/car-images-classification/blob/main/img/project-logo.png" width = 400 height = 300 align="center"/>](https://github.com/agusle/car-images-classification)| [<img src = "https://github.com/agusle/image_classifier/blob/main/img/project-logo.png" width = 400 height = 300/>](https://github.com/agusle/image_classifier)
 
 **<h2 align="left"> Let's connect:</h2>**
 <p align="left">
