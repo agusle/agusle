@@ -54,7 +54,7 @@
 
 |  📖 [Text analysis with Bash](https://github.com/agusle/bash_text_analysis)|
 | :-:| 
-|[<img src = "https://github.com/agusle/bash_text_analysis/blob/main/img/project-logo.png" width = 400 height = 300 align="center"/>](https://github.com/agusle/bash_text_analysis)
+|[<img src = "https://github.com/agusle/bash_text_analysis/blob/main/extras/project-logo.png" width = 400 height = 300 align="center"/>](https://github.com/agusle/bash_text_analysis)
 
 **<h2 align="left"> Let's connect:</h2>**
 <p align="left">
